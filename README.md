@@ -11,7 +11,7 @@ Dublin, OH 43017
 
 | Time | Event | Speaker |
 |------|-------|---------|
-| 8:30am | [Stand Back; I'm going to try Data Science!](https://sessionize.com/s/matt-eland/stand-back-im-going-to-try-data-science/44728) | Matt Eland |
+| 8:30am | [Stand Back; We're going to try Data Science!](https://sessionize.com/s/matt-eland/stand-back-im-going-to-try-data-science/44728) | [Matt Eland](https://MattEland.dev) |
 | 9:30am | TBD | |
 | 10:30am | TBD | |
 | 11:30am | LUNCH | Recruiter Conversations |
